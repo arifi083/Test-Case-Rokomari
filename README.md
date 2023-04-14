@@ -33,5 +33,8 @@ Total Bugs:4
 
 # Bug Severity wise Report
 
-![table](https://user-images.githubusercontent.com/45961823/231940585-c2e0a91e-db3e-4d70-8ac2-a29cda929ce1.PNG)
-![sevirity chart](https://user-images.githubusercontent.com/45961823/231940640-fa6cd31b-dd1c-4d4d-99fa-ee8ba9073c28.PNG)
+![sevirity](https://user-images.githubusercontent.com/45961823/231945687-f959fc09-522d-43fe-9d5d-eba15f3cda3a.PNG)
+
+![severity status](https://user-images.githubusercontent.com/45961823/231945721-4ab83f55-a659-416b-929a-710d62e8b56e.PNG)
+
+
