@@ -21,11 +21,13 @@ Pass : 54
 Fail: 4
 Total Bugs:4
 
-![test case summery](https://user-images.githubusercontent.com/45961823/231938663-f32f8a2d-542f-4678-ac29-c987e4840c39.PNG)
+![test case summery](https://user-images.githubusercontent.com/45961823/231945376-16ee3b6c-918f-44fb-86fc-3501a842f7fd.PNG)
 
-![count ](https://user-images.githubusercontent.com/45961823/231939692-b92b50c8-ec0a-4371-8bbb-426841b370c6.PNG)
+![count vs status](https://user-images.githubusercontent.com/45961823/231945406-5a02adbb-2119-4701-88cc-c8082f07dcf8.PNG)
 
-![pi chart](https://user-images.githubusercontent.com/45961823/231939770-a668756f-f8c1-45f5-b750-896c7e5560d2.PNG)
+![pi chart](https://user-images.githubusercontent.com/45961823/231945430-67e2c72a-5c01-4fd8-b8f2-0f20cfbc8b95.PNG)
+
+
 
 ### ---------------------------Severity----------------------
 
@@ -33,4 +35,3 @@ Total Bugs:4
 
 ![table](https://user-images.githubusercontent.com/45961823/231940585-c2e0a91e-db3e-4d70-8ac2-a29cda929ce1.PNG)
 ![sevirity chart](https://user-images.githubusercontent.com/45961823/231940640-fa6cd31b-dd1c-4d4d-99fa-ee8ba9073c28.PNG)
-
